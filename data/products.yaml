@@ -1,0 +1,9 @@
+train: ../products/images/train/ 
+val:  ../products/images/val/
+test: ../products/images/test/
+
+# number of classes
+nc: x
+
+# class names
+names: ["xx","xx", "xx","xx"]
